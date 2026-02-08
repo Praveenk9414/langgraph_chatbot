@@ -115,7 +115,7 @@ LANGCHAIN_API_KEY=your_langsmith_key   # optional (for tracing)
 ## ▶️ Run the App
 
 ```bash
-streamlit run app.py
+streamlit run streamlit_rag_frontend.py
 ```
 
 Upload a PDF and start chatting 🚀
@@ -149,15 +149,3 @@ These are the same concepts used in production AI systems.
 - Observability with LangSmith
 
 ---
-
-## 👨‍💻 Author
-
-**Praveen K**
-
-If you found this useful, consider starring ⭐ the repo!
-
----
-
-## ⭐ Pro Tip for Recruiters
-
-This project focuses on **system design for AI applications**, not just model usage — highlighting skills relevant to modern AI engineering roles.
